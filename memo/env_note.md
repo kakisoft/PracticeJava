@@ -9,7 +9,7 @@ sudo yum -y install java-1.8.0-openjdk-devel
 ```
 
 ## リファレンス
-oracle java documentation
+oracle java documentation  
 http://www.oracle.com/technetwork/jp/java/javase/documentation/api-jsp-316041-ja.html
 
 ＜コアAPIドキュメント＞  
