@@ -1,4 +1,4 @@
-public class MyApp01 {
+public class Variable {
     
   public static void main(String[] args) {
     String msg01;
@@ -9,20 +9,20 @@ public class MyApp01 {
     System.out.println(msg02);
 
     //==========================
-
+    //
     //==========================
 
-    // •¶š
-    char a05 = 'a'; //''‚ÅˆÍ‚Ş
-    // ®”   byte < short < int < long
+    // æ–‡å­—
+    char a05 = 'a'; //''ã§å›²ã‚€
+    // æ•´æ•°   byte < short < int < long
     int x05 = 10;
-    long y05 = 5555555555L; // long‚ÍŒã•û‚ÉL‚ğ•t‚¯‚é
-    // •‚“®¬”“_”    float < double
+    long y05 = 5555555555L; // longã¯å¾Œæ–¹ã«Lã‚’ä»˜ã‘ã‚‹
+    // æµ®å‹•å°æ•°ç‚¹æ•°    float < double
     double d05 = 23423.344;
-    float f05 = 32.33F; //float‚ÍAŒã•û‚ÉF‚ğ•t‚¯‚éB
-    // ˜_—’l
+    float f05 = 32.33F; //floatã¯ã€å¾Œæ–¹ã«Fã‚’ä»˜ã‘ã‚‹ã€‚
+    // è«–ç†å€¤
     boolean flag05 = true; // false
-    // •¶š—ñ
+    // æ–‡å­—åˆ—
     // \n
     // \t
     String msg05 = "Hello Wo\nrld Again\t!";
